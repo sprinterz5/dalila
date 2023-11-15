@@ -80,8 +80,8 @@
 }
 
 #heart{
-	min-width: 100%;
-	min-height: 100%;
+	min-width: 60px;
+	min-height: 60px;
 }
 
 #button{
